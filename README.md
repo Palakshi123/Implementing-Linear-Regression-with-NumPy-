@@ -1,1 +1,1 @@
-# Implementing-Linear-Regression-with-NumPy-
+# Implementing-Linear-Regression-with-NumPy
